@@ -1,0 +1,1 @@
+python main.py --run_mode=test --data_te=../../data_dump/yfcc-sift-2000-test.hdf5  --model_path=../model/logCHCANet/yfcc_sift/train/ --res_path=../model/logCHCANet/yfcc_sift/test/ --gpu_id=1 
